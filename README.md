@@ -1,3 +1,3 @@
 # UCCSC Placeholder
 
-This site is an information placeholder site for UCCSC 2019. It will be replaced with a real site when the time is right!
+This is the legacy site uccsc.ucsb.edu that redirects to uctech.ucsb.edu.
